@@ -1,14 +1,18 @@
 ---
 layout: project.njk
 
-thumbnail: /img/sample/community-builders-tile.jpg
-description_short: Redesigning a Local Nonprofit's Branding for Increased Engagement
-description_medium: branding, print design, etc.
+thumbnail: /img/mainimagecolacoma.jpg
+description_short: Book based on a book by Roland Barthe
+description_medium: book, print design, etc.
 eleventyNavigation:
   key: Cola Coma
   parent: design
-  order: 2
+  order: 1 
 ---
+
+![layout](/img/tabloid.jpg)
+
+![singlepage](/img/legs.jpg)
 
 ## Background
 
